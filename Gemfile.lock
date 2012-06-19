@@ -58,6 +58,8 @@ GEM
     every_day_irb (1.2.2)
     execjs (1.4.0)
       multi_json (~> 1.0)
+    factory_girl (2.3.2)
+      activesupport
     fancy_irb (0.7.2)
       paint (>= 0.8.1)
       unicode-display_width (>= 0.1.1)
@@ -189,6 +191,7 @@ DEPENDENCIES
   bootstrap-sass (= 2.0.0)
   capybara (= 1.1.2)
   coffee-rails (= 3.2.2)
+  factory_girl
   irbtools
   jquery-rails (= 2.0.0)
   pg (= 0.12.2)
